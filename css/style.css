@@ -9,6 +9,7 @@ body{
 	border: 2px solid #e7e7e7;
 	box-shadow: 2px 2px 7px #e7e7e7;
 	height:	1500px;
+	overflow: hidden;
 }
 
 /*
